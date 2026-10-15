@@ -12,6 +12,6 @@ Userspace dependency compatibility: exact KernelSU Next v3.4.2 KernelSU2 depende
 Exploit route: upstream legacy S928 engine commit 139c6dad8cc81be7f4ab2ef03c6a1463cd60f000 with ZZI4 target constants
 Support feed: exact SM-S928U1 + kernel 6.1.162 automatic test match
 Publication: GitHub raw downloads configured for the app test feed
-9b7e45ff4ae67e7362e4c1b1204d60d3d3a8f861cad25704af38c5ebf4533823  dist/ksud-e3q-S928USQU6ZZI4-kdp-ksun-3.4.2
-da802e179ffd2941dddbb13da15c4df816623b5b435b0ed98dd2cb3c6ff33f41  /home/runner/work/Root-My-Galaxy-Payloads/Root-My-Galaxy-Payloads/out/android14-6.1_kernelsu-e3q-S928USQU6ZZI4-kdp-3.4.2.ko
+b6df1c7b5ebab034ee5976f5d93302a4cac9349954c70dc4139ad1e7c1324ccb  dist/ksud-e3q-S928USQU6ZZI4-kdp-ksun-3.4.2
+582feb48217313684324c916f22fa59af8228f73942bc0d2678140fe21193502  /home/runner/work/Root-My-Galaxy-Payloads/Root-My-Galaxy-Payloads/out/android14-6.1_kernelsu-e3q-S928USQU6ZZI4-kdp-3.4.2.ko
 c0b1d82316e5a950e569e6fbbb3881800fbc3726b22f0d3ebcf74158361a908d  artifacts/e3q-S928USQU6ZZI4/cve-2026-43499-app-legacy-s928.so
